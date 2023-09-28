@@ -2,6 +2,6 @@
 
 nome = str(input("Digite seu nome completo:"))
 if 'Silva' in nome:
-    print("Você tem Silva CARALHO!!!!")
+    print("Você tem Silva!")
 else:
-    print("TOMA NO SEU CU VOCE NÃO TEM SILVA!!!!")
+    print("Você não tem Silva!")
